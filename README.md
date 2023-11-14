@@ -21,3 +21,11 @@ where
     ol.amount_granted < 1000 and
     ol.requested_at >= now() - interval '30 days'
 ```
+
+>3. Data Visualization
+
+[exploration.ipynb](exploration.ipynb)
+
+>4. Modelling
+
+[modeling.ipynb](modeling.ipynb)
